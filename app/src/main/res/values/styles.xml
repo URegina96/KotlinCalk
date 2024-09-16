@@ -1,0 +1,23 @@
+<resources>
+    <style name="CustomButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+
+    <style name="CustomButtonOperator">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">#FFD700</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:elevation">12dp</item>
+    </style>
+</resources>
